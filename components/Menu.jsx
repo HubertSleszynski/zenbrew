@@ -74,9 +74,9 @@ const Menu = () => {
             <Separator bg="accent" />
           </div>
           <p className="text-center max-w-[620px] mx-auto">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Exercitationem nostrum culpa tenetur nihil non excepturi voluptates
-            fuga ipsa dolorum vero.
+            Check out our menu to discover a delightful array of gourmet
+            coffees, homemade pastries, and savory treats that will satisfy
+            every craving!
           </p>
         </div>
         <div className="flex flex-col items-center gap-12 xl:gap-24">

@@ -23,7 +23,6 @@ const Home = () => {
       <Menu />
       <OpeningHours />
       <Testimonials />
-      <div className="h-[20000px]"></div>
     </div>
   );
 };
